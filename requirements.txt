@@ -1,0 +1,4 @@
+django
+idna==2.5
+pyasn1==0.4.6
+channels
