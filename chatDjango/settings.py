@@ -24,7 +24,7 @@ SECRET_KEY = 'z1b*$l_gno32a&2ale@+bta*(hh%neq#-q#wt+ph0dl3!c^1k7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
